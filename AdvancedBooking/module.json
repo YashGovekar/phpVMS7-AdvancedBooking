@@ -1,0 +1,16 @@
+{
+    "name": "AdvancedBooking",
+    "alias": "advancedbooking",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\AdvancedBooking\\Providers\\AppServiceProvider",
+        "Modules\\AdvancedBooking\\Providers\\EventServiceProvider",
+        "Modules\\AdvancedBooking\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
